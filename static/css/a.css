@@ -1,0 +1,13 @@
+.btn-menu {
+    margin-right: 10px;
+}
+
+.nav-link {
+    height: 50px;
+}
+
+.nav-brand{
+    img{
+        max-width: 100px;
+    }
+}   

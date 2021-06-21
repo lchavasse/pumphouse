@@ -1,0 +1,9 @@
+
+  {
+    "id": "doggo",
+    "name": "Digby",
+    "price": 299.95,
+    "image": "images/doggo.jpg",
+    "description": "digby the doggo",
+    "product_url": "http://snipcart-hugo-forestery.netlify.com"
+  }
