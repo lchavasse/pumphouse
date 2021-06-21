@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://naughty-yalow-43daed.netlify.app"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Pump House Spirits Co."
 theme         = "roxo"
 summarylength = 25
 
